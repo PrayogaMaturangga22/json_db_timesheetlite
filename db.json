@@ -9,7 +9,7 @@
       "member_counter": "4",
       "registered_token": "3975983459n98h4v98th348v32vergrt",
       "app_status": "0",
-      "trial_quota": "1"
+      "trial_kuota": "1"
     },
     {
       "company_name": "PT. Indowaras",
@@ -20,7 +20,7 @@
       "member_counter": "2",
       "registered_token": "83648hfberbyt87vb3487tvb67834435",
       "app_status": "0",
-      "trial_quota": "2"
+      "trial_kuota": "2"
     },
     {
       "company_name": "PT. Mantap Sehat Indonesia",
@@ -31,7 +31,7 @@
       "member_counter": "12",
       "registered_token": "jlpx12elx12uex9l123uc923c234v5b5",
       "app_status": "1",
-      "trial_quota": "3"
+      "trial_kuota": "3"
     }
   ]
 }
