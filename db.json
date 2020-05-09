@@ -1,37 +1,37 @@
 {
   "company": [
     {
-      "company_name": "PT. Sehat Sejahtera",
-      "address": "Denpasar",
-      "contact": "273492934234",
-      "website": "www.sehatsejahtera.com",
-      "password": "374544",
-      "member_counter": "4",
-      "registered_token": "3975983459n98h4v98th348v32vergrt",
-      "app_status": "0",
-      "trial_quota": "1"
+      "company_name" => "PT. Sehat Sejahtera",
+      "address" => "Denpasar",
+      "contact" => "273492934234",
+      "website" => "www.sehatsejahtera.com",
+      "password" => "374544",
+      "member_counter" => "4",
+      "registered_token" => "3975983459n98h4v98th348v32vergrt",
+      "app_status" => "0",
+      "trial_quota" => "1"
     },
     {
-      "company_name": "PT. Indowaras",
-      "address": "Denpasar",
-      "contact": "119723162334",
-      "website": "www.indowaras.com",
-      "password": "085609",
-      "member_counter": "2",
-      "registered_token": "83648hfberbyt87vb3487tvb67834435",
-      "app_status": "0",
-      "trial_quota": "2"
+      "company_name" => "PT. Indowaras",
+      "address" => "Denpasar",
+      "contact" => "119723162334",
+      "website" => "www.indowaras.com",
+      "password" => "085609",
+      "member_counter" => "2",
+      "registered_token" => "83648hfberbyt87vb3487tvb67834435",
+      "app_status" => "0",
+      "trial_quota" => "2"
     },
     {
-      "company_name": "PT. Mantap Sehat Indonesia",
-      "address": "Denpasar",
-      "contact": "023809289342",
-      "website": "www.mantasehatindonesia.com",
-      "password": "213234",
-      "member_counter": "12",
-      "registered_token": "jlpx12elx12uex9l123uc923c234v5b5",
-      "app_status": "1",
-      "trial_quota": "3"
+      "company_name" => "PT. Mantap Sehat Indonesia",
+      "address" => "Denpasar",
+      "contact" => "023809289342",
+      "website" => "www.mantasehatindonesia.com",
+      "password" => "213234",
+      "member_counter" => "12",
+      "registered_token" => "jlpx12elx12uex9l123uc923c234v5b5",
+      "app_status" => "1",
+      "trial_quota" => "3"
     }
   ]
 }
