@@ -70,7 +70,7 @@
     {
       "user_id": "9",
       "company_id": "4",
-      "position_id": "1",
+      "position": "Ketua",
       "superior_id": "0",
       "full_name": "Andy Memang Mantap",
       "gender": "male",
@@ -86,7 +86,7 @@
     {
       "user_id": "10",
       "company_id": "5",
-      "position_id": "1",
+      "position": "Ketua",
       "superior_id": "0",
       "full_name": "Johny Memang Mantap",
       "gender": "male",
@@ -102,7 +102,7 @@
     {
       "user_id": "11",
       "company_id": "6",
-      "position_id": "1",
+      "position": "Ketua",
       "superior_id": "0",
       "full_name": "Agus Memang Mantap",
       "gender": "male",
