@@ -1,6 +1,7 @@
 {
   "company": [
     {
+      "kode_perusahaan": "COMP-0004",
       "company_name": "PT. Sehat Sejahtera",
       "address": "Denpasar",
       "contact": "273492934234",
@@ -12,6 +13,7 @@
       "trial_kuota": "1"
     },
     {
+      "kode_perusahaan": "COMP-0005",
       "company_name": "PT. Indowaras",
       "address": "Denpasar",
       "contact": "119723162334",
@@ -23,6 +25,7 @@
       "trial_kuota": "2"
     },
     {
+      "kode_perusahaan": "COMP-0006",
       "company_name": "PT. Mantap Sehat Indonesia",
       "address": "Denpasar",
       "contact": "023809289342",
