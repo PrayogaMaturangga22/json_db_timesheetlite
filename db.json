@@ -62,5 +62,55 @@
       "device_name": "Mantap Device 3",
       "user_status": "1"
     }
+  ],
+  "staff": [
+    {
+      "user_id": "9",
+      "company_id": "4",
+      "position_id": "1",
+      "superior_id": "0",
+      "full_name": "Andy Memang Mantap",
+      "gender": "male",
+      "address": "Jalanan",
+      "phone_number": "037459374598",
+      "date_of_birth": "2000-01-01",
+      "image_profile": "",
+      "health_condition": "Normal",
+      "wfh_status": "1",
+      "total_task": "10",
+      "total_task_done": "2"
+    },
+    {
+      "user_id": "10",
+      "company_id": "5",
+      "position_id": "1",
+      "superior_id": "0",
+      "full_name": "Johny Memang Mantap",
+      "gender": "male",
+      "address": "Jalanan",
+      "phone_number": "625374234232",
+      "date_of_birth": "2001-01-01",
+      "image_profile": "",
+      "health_condition": "Normal",
+      "wfh_status": "0",
+      "total_task": "8",
+      "total_task_done": "2"
+    },
+    {
+      "user_id": "11",
+      "company_id": "6",
+      "position_id": "1",
+      "superior_id": "0",
+      "full_name": "Agus Memang Mantap",
+      "gender": "male",
+      "address": "Jalanan",
+      "phone_number": "0234980280341",
+      "date_of_birth": "1996-01-01",
+      "image_profile": "",
+      "health_condition": "PDP",
+      "wfh_status": "1",
+      "total_task": "12",
+      "total_task_done": "5"
+    }
   ]
 }
