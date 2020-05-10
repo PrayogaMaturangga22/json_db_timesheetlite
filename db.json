@@ -36,7 +36,7 @@
   ],
   "users": [
     {
-      "username": "Andy Mantap",
+      "username": "Andy_Mantap",
       "email": "Denpasar",
       "password": "$2y$10$ZR3059c6gsg2vFWYVLbrj.kYMT9HrTpQrDc4EZE0i0z9WPGqfbVjW",
       "pin": "098075",
@@ -45,7 +45,7 @@
       "user_status": "1"
     },
     {
-      "username": "Johny Mantap",
+      "username": "Johny_Mantap",
       "email": "Badung",
       "password": "$2y$10$ZR3059c6gsg2vFWYVLbrj.kYMT9HrTpQrDc4EZE0i0z9WPGqfbVjW",
       "pin": "132890",
@@ -54,7 +54,7 @@
       "user_status": "1"
     },
     {
-      "username": "Andy Mantap",
+      "username": "Agus_Mantap",
       "email": "Gianyar",
       "password": "$2y$10$ZR3059c6gsg2vFWYVLbrj.kYMT9HrTpQrDc4EZE0i0z9WPGqfbVjW",
       "pin": "458556",
