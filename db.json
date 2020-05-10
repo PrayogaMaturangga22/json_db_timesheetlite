@@ -33,5 +33,34 @@
       "app_status": "1",
       "trial_kuota": "3"
     }
+  ],
+  "users": [
+    {
+      "username": "Andy Mantap",
+      "email": "Denpasar",
+      "password": "$2y$10$ZR3059c6gsg2vFWYVLbrj.kYMT9HrTpQrDc4EZE0i0z9WPGqfbVjW",
+      "pin": "098075",
+      "imei": "03489374537549455",
+      "device_name": "Mantap Device 1",
+      "user_status": "1",
+    },
+    {
+      "username": "Johny Mantap",
+      "email": "Badung",
+      "password": "$2y$10$ZR3059c6gsg2vFWYVLbrj.kYMT9HrTpQrDc4EZE0i0z9WPGqfbVjW",
+      "pin": "132890",
+      "imei": "03489374537549455",
+      "device_name": "Mantap Device 2",
+      "user_status": "1",
+    },
+    {
+      "username": "Andy Mantap",
+      "email": "Gianyar",
+      "password": "$2y$10$ZR3059c6gsg2vFWYVLbrj.kYMT9HrTpQrDc4EZE0i0z9WPGqfbVjW",
+      "pin": "458556",
+      "imei": "03489374537549455",
+      "device_name": "Mantap Device 3",
+      "user_status": "1",
+    }
   ]
 }
