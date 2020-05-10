@@ -42,7 +42,7 @@
       "pin": "098075",
       "imei": "03489374537549455",
       "device_name": "Mantap Device 1",
-      "user_status": "1",
+      "user_status": "1"
     },
     {
       "username": "Johny Mantap",
@@ -51,7 +51,7 @@
       "pin": "132890",
       "imei": "03489374537549455",
       "device_name": "Mantap Device 2",
-      "user_status": "1",
+      "user_status": "1"
     },
     {
       "username": "Andy Mantap",
@@ -60,7 +60,7 @@
       "pin": "458556",
       "imei": "03489374537549455",
       "device_name": "Mantap Device 3",
-      "user_status": "1",
+      "user_status": "1"
     }
   ]
 }
